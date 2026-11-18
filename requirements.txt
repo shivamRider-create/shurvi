@@ -1,0 +1,9 @@
+edge-tts
+playsound3
+SpeechRecognition
+sounddevice
+numpy
+python-dotenv
+google-genai
+tavily-python
+requests
